@@ -46,6 +46,22 @@
 
 ---
 
+### 🎯 Featured Projects
+
+#### 🏠 [House Price Prediction using Machine Learning](https://github.com/tanim2612/house-price-prediction)
+Predicts house prices using multiple regression and ensemble learning models.  
+**Tech Stack:** `Python` • `Pandas` • `Scikit-Learn` • `Matplotlib`
+
+#### 🧬 [Lung Cancer Image Classification (Deep Learning)](https://github.com/tanim2612/lung-cancer-image-classification)
+Classifies histopathological images of lung cancer using CNN, Hybrid & Ensemble Models.  
+**Tech Stack:** `Python` • `TensorFlow` • `Keras` • `OpenCV`
+
+#### 📊 [Data Analysis on COVID-19 Dataset](https://github.com/tanim2612/covid19-data-analysis)
+Performed exploratory data analysis and visualization to uncover global COVID-19 trends.  
+**Tech Stack:** `Python` • `Pandas` • `Seaborn` • `Matplotlib`
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanim2612&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
