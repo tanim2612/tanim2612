@@ -11,11 +11,11 @@
 
 ⚡ Currently, I am working on AI and ML projects that focus on real-world applications, including house price prediction and medical image classification using deep learning. My goal is to leverage data-driven AI solutions to solve meaningful problems.
 
-🔭 I enjoy learning, experimenting, and sharing knowledge about data science, machine learning, and deep learning with the community.
+🔭 I enjoy learning, experimenting, and sharing knowledge about data analyst, machine learning, and deep learning with the community.
 
 💬 My mission is to build AI-based solutions that make life simpler, smarter, and more efficient for people globally.
 
-🏆 I have been actively recognized for my projects and contributions in AI, ML, and Data Analysis (you can optionally add any scholarships, competitions, or achievements here).
+🏆 I have been actively recognized for my projects and contributions in AI, ML, and Data Analysis.
 
 Skills: Python | Machine Learning | Deep Learning | Computer Vision | Data Analysis | TensorFlow | PyTorch | Pandas | NumPy | SQL | Applied Statistics | Data Visualization | OpenCV
 
