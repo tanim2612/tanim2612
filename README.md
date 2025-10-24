@@ -4,17 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Aspiring+Machine+Learning+Engineer;Data+Analyst+%7C+Python+Developer;Deep+Learning+%26+Computer+Vision+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanim2612&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanim2612&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
+### 💡 About Me
+- 🎓 Aspiring Machine Learning Engineer & Data Analyst  
+- 🛠️ Experienced with Python, ML, Deep Learning & Computer Vision  
+- 📊 Love turning raw data into actionable insights  
+- 🌱 Currently exploring AI-driven healthcare projects  
+- 💬 Always excited to collaborate on open-source & data science projects
 
----
+
 
 ### 🌐 Connect with Me
 <p align="center">
