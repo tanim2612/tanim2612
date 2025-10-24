@@ -5,14 +5,21 @@
 </h3>
 
 
-### 💡 About Me
-- 🎓 Aspiring Machine Learning Engineer & Data Analyst  
-- 🛠️ Experienced with Python, ML, Deep Learning & Computer Vision  
-- 📊 Love turning raw data into actionable insights  
-- 🌱 Currently exploring AI-driven healthcare projects  
-- 💬 Always excited to collaborate on open-source & data science projects
+💡 About Me
 
+⚡ I am Habibur Rahman Tanim, an aspiring Machine Learning Engineer and Data Analyst from Bangladesh, passionate about turning complex datasets into actionable insights. I have hands-on experience with ML, Deep Learning, Computer Vision, and Data Analysis through various academic and personal projects.
 
+⚡ Currently, I am working on AI and ML projects that focus on real-world applications, including house price prediction and medical image classification using deep learning. My goal is to leverage data-driven AI solutions to solve meaningful problems.
+
+🔭 I enjoy learning, experimenting, and sharing knowledge about data science, machine learning, and deep learning with the community.
+
+💬 My mission is to build AI-based solutions that make life simpler, smarter, and more efficient for people globally.
+
+🏆 I have been actively recognized for my projects and contributions in AI, ML, and Data Analysis (you can optionally add any scholarships, competitions, or achievements here).
+
+Skills: Python | Machine Learning | Deep Learning | Computer Vision | Data Analysis | TensorFlow | PyTorch | Pandas | NumPy | SQL | Applied Statistics | Data Visualization | OpenCV
+
+📫 Reach me at: tanim2612@gmail.com
 
 ### 🌐 Connect with Me
 <p align="center">
