@@ -17,7 +17,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/habibur-rahman-4b72b41b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -29,7 +29,7 @@
 ---
 
 ### 🧠 Languages & Tools
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -47,24 +47,27 @@
 ---
 
 ### 🎯 Featured Projects
-
-#### 🏠 [House Price Prediction using Machine Learning](https://github.com/tanim2612/house-price-prediction)
-Predicts house prices using multiple regression and ensemble learning models.  
-**Tech Stack:** `Python` • `Pandas` • `Scikit-Learn` • `Matplotlib`
-
-#### 🧬 [Lung Cancer Image Classification (Deep Learning)](https://github.com/tanim2612/lung-cancer-image-classification)
-Classifies histopathological images of lung cancer using CNN, Hybrid & Ensemble Models.  
-**Tech Stack:** `Python` • `TensorFlow` • `Keras` • `OpenCV`
-
-#### 📊 [Data Analysis on COVID-19 Dataset](https://github.com/tanim2612/covid19-data-analysis)
-Performed exploratory data analysis and visualization to uncover global COVID-19 trends.  
-**Tech Stack:** `Python` • `Pandas` • `Seaborn` • `Matplotlib`
+<p align="center">
+  <a href="https://github.com/tanim2612/house-price-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanim2612&repo=house-price-prediction&theme=tokyonight" alt="House Price Prediction" />
+  </a>
+  <a href="https://github.com/tanim2612/lung-cancer-image-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanim2612&repo=lung-cancer-image-classification&theme=tokyonight" alt="Lung Cancer Classification" />
+  </a>
+  <a href="https://github.com/tanim2612/covid19-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanim2612&repo=covid19-data-analysis&theme=tokyonight" alt="COVID-19 Data Analysis" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanim2612&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanim2612&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
